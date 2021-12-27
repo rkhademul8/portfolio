@@ -1,0 +1,38 @@
+
+h1,h5,p{
+    font-family: 'Poppins', sans-serif;
+   
+}
+h1{
+    line-height: 100px;
+}
+h5{
+    line-height: 50px;
+}
+p{
+    color: dimgray;
+    text-align: justify;
+}
+.custom_width{
+    width: 90%;
+    margin: auto;
+}
+
+.margin_botom{
+    margin-bottom: 100px;
+}
+.btn{
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    border: 0px;
+}
+
+.bg_img{
+    background-image: url(images/top-banner.png);
+    background-repeat:no-repeat ;
+}
+.right_bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat ;
+    background-position: right;
+
+}
